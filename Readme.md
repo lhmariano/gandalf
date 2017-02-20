@@ -1,4 +1,8 @@
 # Gandalf
 
-  npm install 
-  node app.js
+
+###Getting Started###
+```
+	> npm install
+	> npm start
+```
